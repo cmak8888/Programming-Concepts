@@ -1,0 +1,4 @@
+﻿  main.cpp
+z:\csci261\lab02b\lab02b\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab02B.vcxproj -> Z:\CSCI261\Lab02B\Debug\Lab02B.exe
+  Lab02B.vcxproj -> Z:\CSCI261\Lab02B\Debug\Lab02B.pdb (Partial PDB)
