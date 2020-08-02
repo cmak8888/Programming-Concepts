@@ -1,0 +1,4 @@
+﻿  main.cpp
+z:\csci261\lab03a\lab03a\main.cpp(29): warning C4715: 'cont': not all control paths return a value
+  Lab03A.vcxproj -> Z:\CSCI261\Lab03A\Debug\Lab03A.exe
+  Lab03A.vcxproj -> Z:\CSCI261\Lab03A\Debug\Lab03A.pdb (Partial PDB)

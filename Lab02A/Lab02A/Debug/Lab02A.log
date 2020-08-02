@@ -1,0 +1,5 @@
+﻿  main.cpp
+z:\csci261\lab02a\lab02a\main.cpp(12): error C2039: 'tolower': is not a member of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+z:\csci261\lab02a\lab02a\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+z:\csci261\lab02a\lab02a\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
